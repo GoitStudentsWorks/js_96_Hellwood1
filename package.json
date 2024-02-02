@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/energy-flow-team-project/",
+    "build": "vite build --base=/js_96_Hellwood1/",
     "preview": "vite preview"
   },
   "devDependencies": {
